@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02e55d27-ed44-4bf0-b674-0913f8ee9dec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/myapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalDataScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlobalDataScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/GlobalDataScanner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +38,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="GlobalDataScanner.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,7 +58,7 @@
       <updated>1585233069031</updated>
       <workItem from="1585233072705" duration="62000" />
       <workItem from="1585233218740" duration="282000" />
-      <workItem from="1585233664153" duration="287000" />
+      <workItem from="1585233664153" duration="947000" />
     </task>
     <servers />
   </component>
